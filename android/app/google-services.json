@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "818741252881",
+    "project_id": "dukkantek-task",
+    "storage_bucket": "dukkantek-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818741252881:android:19d3e507b38e07ebc972b0",
+        "android_client_info": {
+          "package_name": "com.akmz.dukkantek_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818741252881-hgomuq0mecqouq49k9nbu2o7d6c8vclh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akmz.dukkantek_task",
+            "certificate_hash": "4dbd6a674ad84b41252ef820d811383dd67d2fa4"
+          }
+        },
+        {
+          "client_id": "818741252881-72h9lnkmsj49pp2o2egffd1cf0eg5l5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMz0FMZSk7a8A_4AvMpTVugSFJ_eA3KVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818741252881-72h9lnkmsj49pp2o2egffd1cf0eg5l5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "818741252881-oetfvptteq132kuu6allh81as4scvht8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akmz.dukkantekTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
